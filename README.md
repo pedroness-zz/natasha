@@ -5,7 +5,7 @@
 
 ## Run / test 
 
-* ```docker-compose up```
+* ```docker run -itv $(pwd)/app:/app natasha```
 * Run command ```python3 image.py```
 
 ## Use
