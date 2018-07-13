@@ -1,11 +1,11 @@
 # Nats:
 
 ## Build
-* docker build . -t natasha
+* ```docker build . -t natasha```
 
 ## Run / test 
 
-* docker-compose up
+* ```docker-compose up```
 * Run command ```python3 image.py```
 
 ## Use
